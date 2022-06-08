@@ -12,10 +12,8 @@ Suivez l'actualité du chapitre sur :
 [![Meetup](/assets/images/meetup.png)](https://www.meetup.com/xxxx/)
 [![Twitter](/assets/images/twitter.png)](https://twitter.com/owasp_sn)
 
-## Appel à conférenciers
-
-L'appel à conférenciers est ouvert. Si vous souhaitez présenter une conférence sur la sécurité des applications lors des futurs événements du chapitre Sénégalais de l'OWASP - veuillez lire et accepter l'[accord de conférencier OWASP](/www-policy/legal/speaker-agreement) et envoyer le titre de la conférence proposée, le résumé, et la biographie des conférenciers aux [Chapter Leaders](leaders.md) par e-mail.
-## Evenements à venir
+## Welcome
+Welcome to OWASP Dhule Chapter.The chapter leaders are <a href="mailto:makarand.shahade@owasp.org">Makarand Shahade</a>, <a href="mailto:umakant.mandawkar@owasp.org">Umakant Mandawkar</a>, <a href="mailto:mailto:ranjit.fule@owasp.org">Ranjit Fule</a> and <a href="mailto:nilesh.khandekar@owasp.org">Nilesh Khandekar</a>..The Chapter's vision is to spread awareness about the Application Security among not just the citizens of Nagpur but beyond that too.It will conduct meets every now and then about the trends in the security community.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -24,7 +22,7 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-Next Meeting/Event 
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -37,15 +35,17 @@ Please change these items to indicate the actual information you wish to present
 {front matter for this file}
 
 ```
--
+- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+- region: This is the region you are in according to our data
 ```
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Bienvenue sur la page d'accueil du chapitre Sénégalais  de L'OWASP.
-Suivez l'actualité du chapitre sur :
+Include some information here about your chapter
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
