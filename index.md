@@ -7,7 +7,7 @@ region: Africa
 meetup-group:
 
 ---
-<a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP-DAKAR.jpeg" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
+<a href="https://20thanniversary.owasp.org/"><img src="assets/images/OWASP-DAKAR-2.png" style="width: auto; height: auto;" alt="OWASP 20th Anniversary"/></a>
  
 ## Welcome
 Bienvenue sur la page d'accueil du chapitre Sénégalais  de L'OWASP.
