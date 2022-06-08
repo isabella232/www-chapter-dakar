@@ -1,3 +1,3 @@
 ### Leaders
-* [Marc Yoralanho Oulobly](mailto:oulobly122@gmail.com)
-* [Ibrahima El Hadji Ndiaye](mailto:ein3095@gmail.com)
+* [Marc Yoralanho Oulobly](mailto:marc.oulobly@owasp.org)
+* [Ibrahima El Hadji Ndiaye](mailto:ibrahima.ndiaye@owasp.org)
