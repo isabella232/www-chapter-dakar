@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Équipe et organisation
 layout:  null
 tab: true
 order: 1
